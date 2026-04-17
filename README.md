@@ -47,8 +47,6 @@ To compile SharkApp into a standalone `.exe`:
 ## 👥 Credits
 
 Developed by:
-- **Ryan Moore**
-- **Celso Garcia**
 - **Gabriel Fellipe**
 
 ---
