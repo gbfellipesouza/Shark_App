@@ -2,9 +2,6 @@
 
 **SharkApp** is a premium, all-in-one system utility tool designed for Windows. It provides a modern, high-performance interface to execute critical system maintenance, activation, and diagnostic tasks with a single click.
 
-![SharkApp Background](bg_texture.png)
-*(Replace with a screenshot of your app)*
-
 ## 🚀 Features
 
 SharkApp consolidates several powerful system tools into a single, intuitive dashboard:
